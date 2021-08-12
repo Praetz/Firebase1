@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+//eslint-disable-next-line
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -17,7 +19,7 @@ function App() {
         >
           Learn React
         </a>
-        <Footer />
+        
       </header>
     </div>
   );

@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-//eslint-disable-next-line
-import Footer from './components/Footer/Footer';
+
+
 
 function App() {
   return (

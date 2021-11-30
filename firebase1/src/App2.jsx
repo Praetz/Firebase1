@@ -1,12 +1,12 @@
 import'./App2';
-import Footer from './components/Footer/Footer';
+import Dailyword from './components/Dailyword/Dailyword'
 import Main from './components/Main/Main';
 
 function App2() {
     return (
         <div className="App">
 
-            <Footer />
+            <Dailyword />
             <Main />
         </div>
     );

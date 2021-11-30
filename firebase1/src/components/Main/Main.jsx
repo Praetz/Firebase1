@@ -9,9 +9,10 @@ export default function Main() {
             </div>
             <div className='item-container'>
                 
-                <label htmlFor="Dailyword">
-                    <button type="submit" value='boolean' href='../../images/footOfCross.jpg' >Dailyword</button>
-                </label>
+                <div>
+                    <p class="name">freeCodeCamp</p>
+                    <button onclick="changeColor()">Change to Blue</button>
+                </div>
             </div>
         </div>
     );

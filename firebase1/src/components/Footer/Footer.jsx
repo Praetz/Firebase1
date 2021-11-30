@@ -12,8 +12,8 @@ export default function Footer() {
                 <a href='https://www.google.com/search?q=religous+pictures&oq=religous+pictures&aqs=chrome..69i57j0i10l4j0i10i395l2j0i10j0i10i395l2.15817j1j7&sourceid=chrome&ie=UTF-8'>
                     item 1
                 </a>
-                <a href='src/images/thecross.jpgy'>item 2</a>
-                <a href='src/images/thecross.jpgy'>item 3</a>
+                <label htmlFor="button"></label>
+                <a href='src/images/thecross.jpg'>item 3</a>
             </div>
         </div>
     );
